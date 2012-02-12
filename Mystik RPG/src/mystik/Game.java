@@ -719,12 +719,12 @@ public class Game extends JApplet implements KeyListener, MouseListener,
 					}catch (Exception er) {
 						er.printStackTrace();
 					}
-/**
+
 				System.out.println("==========================\n JSON MAP LOAD...\n==========================\n");
 
 					System.out.println("Name of map: " + data.getTitle());
 					System.out.println("ID of map: " + data.getIDS().get(0).getCurrentMap());
-					**/
+					
 					maplist.add(Integer.toString(data.getIDS().get(0).getCurrentMap()));
 					
 					try {
