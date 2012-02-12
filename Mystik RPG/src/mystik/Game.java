@@ -17,12 +17,6 @@ feel very insecure if you make fun of it.
 
  **/
 
-/**
- *  To fix...
- *  [When jFrame on opens... make text input or game panel focused] [ DONE ]
- *  [ On pick-up... only show "You picked up"... once" [ DONE ]
- */
-
 import mystik.Player;
 
 import java.awt.BorderLayout;
